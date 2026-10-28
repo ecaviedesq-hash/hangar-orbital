@@ -44,4 +44,4 @@ Quedan fuera la tripulación, los usuarios y el inicio de sesión, las notificac
 
 - No está decidido si una nave en dique seco deja de estar apta para despegar o solo se le impide recibir misiones nuevas.
 - No está decidido qué ocurre con las misiones ya asignadas cuando la nave entra en dique seco.
-- No está decidido qué datos mínimos hay que pedir al registrar una nave o al asignar una misión.
+- No está decidido si una nave puede tener dos misiones con fechas superpuestas.
